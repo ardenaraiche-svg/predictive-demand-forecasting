@@ -1,9 +1,7 @@
 # Predictive Forecasting: Optimizing Operations & Demand Analytics
 
 ## 📌 Business Problem
-"UrbanStyle Co., a regional apparel retailer, has experienced significant margin erosion due to two distinct supply chain issues: stockouts of high-demand items during peak seasonal shifts (resulting in an estimated 12% loss in potential revenue) and overstocking of slower-moving inventory (incurring high warehouse carrying costs and forcing deep promotional markdowns).
-
-This project builds an end-to-end predictive machine learning pipeline to forecast weekly product demand at the store-SKU level. By accurately predicting future demand, the business can optimize purchasing cycles, reduce holding costs, and ensure optimal stock availability.
+EcoDrive Motors, a rapidly growing electric vehicle manufacturer, wants to predict quarterly fleet sales across different regional markets while quantifying the direct environmental impact of their vehicles.This project builds an end-to-end predictive machine learning pipeline to forecast EV unit sales. Simultaneously, it integrates a carbon-offset calculation framework to track how replacing internal combustion engine (ICE) vehicles with EVs reduces tailpipe $CO_2$ emissions over time, giving stakeholders a data-driven look at both market demand and environmental ROI.
 
 ## 🛠️ The Tech Stack
 * **Language:** Python (Pandas, NumPy)
